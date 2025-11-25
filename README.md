@@ -1,3 +1,7 @@
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic)](https://docs.anthropic.com/en/docs/claude-code)
+[![Claude Code Projects](https://img.shields.io/badge/More%20Projects-Claude%20Code%20Index-purple)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+[![GitHub Index](https://img.shields.io/badge/All%20Repos-Master%20Index-green)](https://github.com/danielrosehill/Github-Master-Index)
+
 # Claude Decision Evaluation Framework
 
 A structured system for analyzing major life and business decisions through multiple objective frameworks using Claude Code.
@@ -321,3 +325,7 @@ Framework methodologies adapted from established decision-making systems:
 - Risk-Reward Assessment (Finance)
 - Eisenhower Matrix (Productivity)
 - Regret Minimization (Behavioral Economics)
+
+---
+
+To view an index of my Claude Code related projects, [click here](https://github.com/danielrosehill/Claude-Code-Repos-Index).
